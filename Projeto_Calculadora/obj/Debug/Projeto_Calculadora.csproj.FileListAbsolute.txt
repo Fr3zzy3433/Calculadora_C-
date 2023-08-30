@@ -1,0 +1,8 @@
+C:\Users\Barcellos\Desktop\Logan(não mexer)\CursoC#\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.exe.config
+C:\Users\Barcellos\Desktop\Logan(não mexer)\CursoC#\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.exe
+C:\Users\Barcellos\Desktop\Logan(não mexer)\CursoC#\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.pdb
+C:\Users\Barcellos\Desktop\Logan(não mexer)\CursoC#\Projeto_Calculadora\Projeto_Calculadora\obj\Debug\Projeto_Calculadora.csproj.AssemblyReference.cache
+C:\Users\Barcellos\Desktop\Logan(não mexer)\CursoC#\Projeto_Calculadora\Projeto_Calculadora\obj\Debug\Projeto_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Barcellos\Desktop\Logan(não mexer)\CursoC#\Projeto_Calculadora\Projeto_Calculadora\obj\Debug\Projeto_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Barcellos\Desktop\Logan(não mexer)\CursoC#\Projeto_Calculadora\Projeto_Calculadora\obj\Debug\Projeto_Calculadora.exe
+C:\Users\Barcellos\Desktop\Logan(não mexer)\CursoC#\Projeto_Calculadora\Projeto_Calculadora\obj\Debug\Projeto_Calculadora.pdb
