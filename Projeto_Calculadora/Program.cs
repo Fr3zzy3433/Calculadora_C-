@@ -20,7 +20,7 @@ namespace Projeto_Calculadora
             Console.Write("Qual operação deseja fazer?: ");
             int operacao = int.Parse(Console.ReadLine());
 
-
+            //esboço
             Console.Write("Digite o primeiro número: ");
             int primeiro_num = int.Parse(Console.ReadLine());
             Console.WriteLine();
